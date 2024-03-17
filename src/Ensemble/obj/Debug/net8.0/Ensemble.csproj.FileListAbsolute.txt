@@ -1,0 +1,13 @@
+C:\Users\AlexanderJohnStuartH\repos\lookmumnohandlebars\Ensemble\src\Ensemble\bin\Debug\net8.0\Ensemble.deps.json
+C:\Users\AlexanderJohnStuartH\repos\lookmumnohandlebars\Ensemble\src\Ensemble\bin\Debug\net8.0\Ensemble.dll
+C:\Users\AlexanderJohnStuartH\repos\lookmumnohandlebars\Ensemble\src\Ensemble\bin\Debug\net8.0\Ensemble.pdb
+C:\Users\AlexanderJohnStuartH\repos\lookmumnohandlebars\Ensemble\src\Ensemble\obj\Debug\net8.0\Ensemble.csproj.AssemblyReference.cache
+C:\Users\AlexanderJohnStuartH\repos\lookmumnohandlebars\Ensemble\src\Ensemble\obj\Debug\net8.0\Ensemble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexanderJohnStuartH\repos\lookmumnohandlebars\Ensemble\src\Ensemble\obj\Debug\net8.0\Ensemble.AssemblyInfoInputs.cache
+C:\Users\AlexanderJohnStuartH\repos\lookmumnohandlebars\Ensemble\src\Ensemble\obj\Debug\net8.0\Ensemble.AssemblyInfo.cs
+C:\Users\AlexanderJohnStuartH\repos\lookmumnohandlebars\Ensemble\src\Ensemble\obj\Debug\net8.0\Ensemble.csproj.CoreCompileInputs.cache
+C:\Users\AlexanderJohnStuartH\repos\lookmumnohandlebars\Ensemble\src\Ensemble\obj\Debug\net8.0\Ensemble.sourcelink.json
+C:\Users\AlexanderJohnStuartH\repos\lookmumnohandlebars\Ensemble\src\Ensemble\obj\Debug\net8.0\Ensemble.dll
+C:\Users\AlexanderJohnStuartH\repos\lookmumnohandlebars\Ensemble\src\Ensemble\obj\Debug\net8.0\refint\Ensemble.dll
+C:\Users\AlexanderJohnStuartH\repos\lookmumnohandlebars\Ensemble\src\Ensemble\obj\Debug\net8.0\Ensemble.pdb
+C:\Users\AlexanderJohnStuartH\repos\lookmumnohandlebars\Ensemble\src\Ensemble\obj\Debug\net8.0\ref\Ensemble.dll
